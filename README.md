@@ -1,3 +1,5 @@
+![Auction Contract](https://github.com/WalterBrian/solidity/blob/main-1/auction%20contract.png?raw=true)
+
 # NFT Marketplace Smart Contract
 
 This is a decentralized digital art marketplace built on the Ethereum blockchain using Solidity. It enables artists to list their digital artworks as NFTs for auction, allowing users to place bids and purchase these NFTs.
